@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Franco Bernardele</h1>
-<h3 align="center">Soy un Tecnico Universitario en Proramacion en busca de crecimiento tecnico y profesional</h3>
+<h3 align="center">Soy un Tecnico Universitario en Programacion en busca de crecimiento tecnico y profesional</h3>
 
 <p align="left">- 📫 How to reach me: bernarjuan2@gmail.com</p>
 
