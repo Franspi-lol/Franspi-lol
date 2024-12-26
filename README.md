@@ -2,6 +2,7 @@
 <h3 align="center">Soy un Tecnico Universitario en Programacion en busca de crecimiento tecnico y profesional</h3>
 
 <p align="left">- 📫 How to reach me: bernarjuan2@gmail.com</p>
+<p align="left">- 🔭 I’m currently working in Renálida - a Health consultant in Mar del Plata</p>
 
 
 <h3 align="left"> 🛠 Lenguajes y Herramientas:</h3>
@@ -14,7 +15,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
